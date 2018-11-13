@@ -1,5 +1,6 @@
 <center><h1>I-BiG</h1>
 <p>November 22nd, 2018</p>
+</center>
 
 ---
 
