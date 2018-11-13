@@ -1,22 +1,23 @@
 <center><h1>I-BiG</h1>
 <p>November 22nd, 2018</p>
-<br>
-<h4>Instructors</h4>
-<p> Simona Abbà - Marco Chiapello </p>
-</center>
 
 ---
 
 <center><h2>OSF.io and Protocols.io</h2>
-<p>(First I-BiG course)</p>
+<h4>Instructors</h4>
+<p> Simona Abbà - Marco Chiapello </p>
 </center>
 
 Location: [IPSP-CNR](https://goo.gl/maps/ubrkz1z6TPz)
 
 Agenda: 
+  
     - 10-10:30: General introduction
+
 	- 10:30-11:30: OSF 
+
 	- 11:30-12: protocols
+
 	- Extra-time: Q&A	
 
 
