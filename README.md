@@ -52,7 +52,7 @@ Agenda:
 
 All of the software required for this workshop are online. You only need a web browser.
 
-Participants could bring their laptops. 
+Participants *should* bring their laptops. 
 
 ---
 
