@@ -74,4 +74,4 @@ Participants *should* bring their laptops.
   
 Please at the end of the course click on the following link: [survey](https://goo.gl/forms/Z3FPS6nWVOlAtxLf2)
 
-Or scan the QR-code: ![QRcode](img(frame.png)
+Or scan the QR-code: ![QRcode](img/frame.png)
