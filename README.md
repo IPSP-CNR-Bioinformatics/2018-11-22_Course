@@ -76,6 +76,5 @@ Please at the end of the course click on the following link: [survey](https://go
 
 Or scan the QR-code:
 
-<cente>
 ![QRcode](img/frame.png)
-</center>
+
