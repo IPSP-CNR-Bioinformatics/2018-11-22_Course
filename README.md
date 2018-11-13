@@ -1,25 +1,26 @@
-<center><h1>I-BiG</h1>
+<center><h1>IPSP Bioinformatics Group (I-BiG)</h1>
 <p>November 22nd, 2018</p>
 </center>
 
 ---
 
-<center><h2>OSF.io and Protocols.io</h2>
+<center><h2>OSF.io and Protocols.io introductory course</h2>
 <h4>Instructors</h4>
 <p> Simona Abbà - Marco Chiapello </p>
+<br>
 </center>
 
 Location: [IPSP-CNR](https://goo.gl/maps/ubrkz1z6TPz)
 
 Agenda: 
   
-    - 10-10:30: General introduction
+- 10-10:30: General introduction
 
-	- 10:30-11:30: OSF 
+- 10:30-11:30: OSF 
 
-	- 11:30-12: protocols
+- 11:30-12: protocols
 
-	- Extra-time: Q&A	
+- Extra-time: Q&A	
 
 
 ---
@@ -47,4 +48,22 @@ Agenda:
 
 ---
 
+<center><h2><p>Computer equipment</p></h2></center>
 
+All of the software required for this workshop are online. You only need a web browser.
+
+Participants could bring their laptops. 
+
+---
+
+<center><h2><p>Questions and interaction</p></h2></center>
+
+- We will use [Etherpad](https://public.etherpad-mozilla.org/p/I-BiG_2018-11-22) for chatting, taking notes, and sharing URLs.
+
+- You have to create an account on GitHub:
+  1. Go [here](https://github.com)
+  1. Create a profile
+  1. Write on the etherpad your name and your GitHub username
+  1. The instructors will add you to the course team!
+  1. You will receive a confirmation email
+  1. Click on the link in the email to see the conversation
