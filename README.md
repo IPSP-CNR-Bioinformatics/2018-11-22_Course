@@ -70,10 +70,12 @@ Participants *should* bring their laptops.
   
   ---
   
-### Final survey
+<center><h2><p>Final survey</p></h2></center>
   
 Please at the end of the course click on the following link: [survey](https://goo.gl/forms/Z3FPS6nWVOlAtxLf2)
 
 Or scan the QR-code:
 
+<cente>
 ![QRcode](img/frame.png)
+</center>
