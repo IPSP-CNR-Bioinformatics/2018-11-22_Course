@@ -10,7 +10,7 @@
 <br>
 </center>
 
-Location: [IPSP-CNR](https://goo.gl/maps/ubrkz1z6TPz)
+Location: [IPSP-CNR](https://goo.gl/maps/fePQZ27oVnw)
 
 Agenda: 
   
