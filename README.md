@@ -70,7 +70,7 @@ Participants *should* bring their laptops.
   
   ---
   
-  ### Final survey
+### Final survey
   
 Please at the end of the course click on the following link: [survey](https://goo.gl/forms/Z3FPS6nWVOlAtxLf2)
 
