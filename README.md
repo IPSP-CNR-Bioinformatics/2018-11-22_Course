@@ -67,3 +67,11 @@ Participants *should* bring their laptops.
   1. The instructors will add you to the course team!
   1. You will receive a confirmation email
   1. Click on the link in the email to see the conversation
+  
+  ---
+  
+  ### Final survey
+  
+Please at the end of the course click on the following link: [survey](https://goo.gl/forms/Z3FPS6nWVOlAtxLf2)
+
+Or scan the QR-code: ![QRcode](img(frame.png)
