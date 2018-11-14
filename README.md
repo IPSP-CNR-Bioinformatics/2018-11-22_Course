@@ -56,6 +56,8 @@ All of the software required for this workshop are online. You only need a web b
 
 Participants *should* bring their laptops. 
 
+Pre-registation on [OSF.io](https://osf.io/) and [protocols.io](https://www.protocols.io/) is recommended.
+
 ---
 
 <center><h2><p>Questions and interaction</p></h2></center>
