@@ -14,11 +14,13 @@ Location: [IPSP-CNR](https://goo.gl/maps/fePQZ27oVnw)
 
 Agenda: 
   
-- 10-10:30: General introduction
+- 10-10:10: Brief introduction about I-BiG
+
+- 10:10-10:30: General introduction on Open Reserch Data and Open Science
 
 - 10:30-11:30: OSF 
 
-- 11:30-12: protocols
+- 11:30-12: Protocols
 
 - Extra-time: Q&A	
 
@@ -60,10 +62,10 @@ Participants *should* bring their laptops.
 
 - We will use [Etherpad](https://public.etherpad-mozilla.org/p/I-BiG_2018-11-22) for chatting, taking notes, and sharing URLs.
 
-- You have to create an account on GitHub:
-  1. Go [here](https://github.com)
+- You have to create an account on OSF and Protocols:
+  1. Go to [OSF](https://osf.io/) and [Protocols](https://www.protocols.io/)
   1. Create a profile
-  1. Write on the etherpad your name and your GitHub username
+  1. Write on the etherpad your name
   1. The instructors will add you to the course team!
   1. You will receive a confirmation email
   1. Click on the link in the email to see the conversation
