@@ -14,9 +14,9 @@ Location: [IPSP-CNR](https://goo.gl/maps/fePQZ27oVnw)
 
 Agenda: 
   
-- 10-10:10: Brief introduction about I-BiG
+- 10-10:10 Brief introduction about I-BiG
 
-- 10:10-10:30: General introduction on Open Reserch Data and Open Science
+- 10:10-10:30: General introduction on Open Research Data and Open Science
 
 - 10:30-11:30: OSF 
 
