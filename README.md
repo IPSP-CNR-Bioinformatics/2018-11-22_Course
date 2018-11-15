@@ -10,7 +10,7 @@
 <br>
 </center>
 
-Location: [IPSP-CNR](https://goo.gl/maps/fePQZ27oVnw)
+Location: [IPSP-CNR](https://goo.gl/maps/fePQZ27oVnw) - Aula Lovisolo (second floor)
 
 Agenda: 
   
